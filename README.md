@@ -31,7 +31,7 @@ Several visualizations are presented to evaluate the performance of the model:
 - Confusion Matrix:** Showing true positive, true negative, false positive and false negative predictions.
 - Correlation Matrix:** Show the correlation between actual and predicted tags.
 
-## Use Case
+## Usage Example
 
 #### Single Image Classification
 To classify a single image, specify the path to the image:
