@@ -47,5 +47,5 @@ classification = np.where(res == np.amax(res))[1][0]
 imshow(img)
 print(str(res[0][classification] * 100) + '% Confidence This Is A ' + names(classification))
 ```
-![]()
->[]()
+![](https://github.com/ahmetnuysal/Brain-Tumor-Detection-with-CNN/blob/main/Pics/Screenshot_10.png)
+>[](https://github.com/ahmetnuysal/Brain-Tumor-Detection-with-CNN/blob/main/Pics/Screenshot_9.png)
