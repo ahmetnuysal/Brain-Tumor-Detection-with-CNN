@@ -28,8 +28,8 @@ The dataset is split with 80% training and 20% testing. The model is trained wit
 Several visualizations are presented to evaluate the performance of the model:
 
 - **Loss Graph:** Visualizing training and validation losses across epochs.
-- Confusion Matrix:** Showing true positive, true negative, false positive and false negative predictions.
-- Correlation Matrix:** Show the correlation between actual and predicted tags.
+- **Confusion Matrix:** Showing true positive, true negative, false positive and false negative predictions.
+- **Correlation Matrix:** Show the correlation between actual and predicted tags.
 
 ## Usage Example
 
