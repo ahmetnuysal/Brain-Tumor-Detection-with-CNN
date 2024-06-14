@@ -38,7 +38,7 @@ To classify a single image, specify the path to the image:
 
 ```
 from matplotlib.pyplot import imshow
-img = Image.open(r "C:/Users/ahmet/Desktop/data/all/degergiriniz.jpg")
+img = Image.open(r "C:/Users/username/Desktop/data/all/degergiriniz.jpg")
 img = img.convert("RGB")
 x = np.array(img.resize((128, 128)))
 x = x.reshape(1, 128, 128, 3)
